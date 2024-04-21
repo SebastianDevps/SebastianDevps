@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sebastian Guerra</h1>
 <h3 align="center">A passionate backend developer Backend developer, an the way to being fullstack</h3>
-<h3 align="center">From Colombia </h3>
+<img src="https://es.emojiguide.com/banderas/flag-colombia/" alt="#" width="40" height="40"/>
 
 - 🌱 I’m currently learning **React, Node js And Springboot**
 
