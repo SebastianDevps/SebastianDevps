@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sebastian Guerra</h1>
 <h3 align="center">A passionate backend developer Backend developer, an the way to being fullstack</h3>
-<img src="https://www.pnguniverse.com/wp-content/uploads/2020/09/Bandera-circular-de-Colombia.png" alt="https://es.wikipedia.org/wiki/Colombia" width="40" height="40"/>
+<img src="https://officialpsds.com/imageview/r2/1p/r21p06_large.png?1521316524" width="40" height="40"/>
 
 - 🌱 I’m currently learning **React, Node js And Springboot**
 
@@ -33,6 +33,9 @@
  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a>
 
   <h3 align="left">DataBase:</h3>
   
@@ -47,9 +50,7 @@
   </a> 
   <h3 align="left">Tools:</h3>
   
- <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a>
+
   <a href="https://postman.com" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
   </a> 
