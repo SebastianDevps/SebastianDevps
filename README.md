@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sebastian Guerra</h1>
-<h3 align="center">A passionate backend developer Backend developer</h3>
-<h3 align="center">An the way to being fullstack</h3>
+<h3 align="center">A passionate backend developer Backend developer, an the way to being fullstack</h3>
 <h3 align="center">From Colombia </h3>
 
 - 🌱 I’m currently learning **React, Node js And Springboot**
