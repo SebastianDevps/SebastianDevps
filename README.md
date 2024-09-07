@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sebastian-guerra/" target="_blank">
+  <a href="https://www.linkedin.com/in/sebastiandevp/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/sebastianguerra" target="_blank">
+  <a href="https://github.com/SebastianDevps" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github" alt="GitHub" />
   </a>
 </p>
