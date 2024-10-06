@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sebastian Guerra</h1>
 <h3 align="center">Backend Developer | Aspiring Fullstack Developer</h3>
-<p align="center">
-  <img src="https://officialpsds.com/imageview/r2/1p/r21p06_large.png?1521316524" width="80" height="80" />
-</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sebastiandevp/" target="_blank">
