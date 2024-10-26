@@ -89,8 +89,8 @@
   I am a dedicated backend developer with a passion for creating efficient and scalable applications. Currently, I'm expanding my skills to become a fullstack developer. I enjoy working with modern technologies and am always eager to learn and explore new tools and frameworks.
 </p>
 
-<p align="center" style="font-size: 1.1em; color: #777;">💬 Feel free to reach out if you have any questions or just want to connect!</p>
+[![](https://visitcount.itsvg.in/api?id=SebastianDevps&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p align="center">
-  [![](https://visitcount.itsvg.in/api?id=SebastianDevps&icon=0&color=0)](https://visitcount.itsvg.in)
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<p align="center" style="font-size: 1.1em; color: #777;">💬 Feel free to reach out if you have any questions or just want to connect!</p>
