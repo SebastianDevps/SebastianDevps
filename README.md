@@ -65,32 +65,14 @@
   </a>
 </p>
 
-<h2  style="color: #4CAF50;">📈 GitHub Stats</h2>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=SebastianDevps&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Sebastian's GitHub Stats" />
-</p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SebastianDevps&theme=dark&hide_border=false" alt="Sebastian's GitHub Streak" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianDevps&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-
-<h2 align="center" style="color: #4CAF50;">🏆 GitHub Trophies</h2>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SebastianDevps&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Trophies" />
-</p>
-
-<h2 align="center" style="color: #4CAF50;">🔝 Top Contributed Repo</h2>
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=SebastianDevps&limit=5&theme=merko" />
-</p>
-
----
-
 <h2 align="center" style="color: #4CAF50;">💬 About Me</h2>
 <p align="center" style="max-width: 800px; margin: 0 auto; font-size: 1.1em; color: #555;">
   I am a dedicated backend developer with a passion for creating efficient and scalable applications. Currently, I'm expanding my skills to become a fullstack developer. I enjoy working with modern technologies and am always eager to learn and explore new tools and frameworks.
 </p>
+<p align="center" style="font-size: 1.1em; color: #777;">💬 Feel free to reach out if you have any questions or just want to connect!</p>
 
 [![](https://visitcount.itsvg.in/api?id=SebastianDevps&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<p align="center" style="font-size: 1.1em; color: #777;">💬 Feel free to reach out if you have any questions or just want to connect!</p>
+
