@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sebastian Guerra</h1>
-<h3 align="center">Backend Developer | Aspiring Fullstack Developer</h3>
+<h1 align="center">👋 Hi, I'm Sebastian Guerra</h1>
+<h3 align="center">🌐 Backend Developer | Aspiring Fullstack Developer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sebastiandevp/" target="_blank">
@@ -10,9 +10,11 @@
   </a>
 </p>
 
-<p align="center">🌟 I love working on exciting projects and learning new technologies!</p>
+<p align="center">🚀 I love working on exciting projects and learning new technologies!</p>
 
-<h3 align="left">Languages & Frameworks:</h3>
+---
+
+<h3 align="left">🛠️ Languages & Frameworks:</h3>
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/>
@@ -34,7 +36,9 @@
   </a>
 </p>
 
-<h3 align="left">Databases:</h3>
+---
+
+<h3 align="left">📊 Databases:</h3>
 <p align="left">
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/>
@@ -50,7 +54,9 @@
   </a>
 </p>
 
-<h3 align="left">Tools:</h3>
+---
+
+<h3 align="left">🛠️ Tools:</h3>
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
@@ -63,28 +69,33 @@
   </a>
 </p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SebastianDevps&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SebastianDevps&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianDevps&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SebastianDevps&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SebastianDevps&limit=5&theme=merko)
+<h2 align="center">📈 GitHub Stats:</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SebastianDevps&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Sebastian's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SebastianDevps&theme=dark&hide_border=false" alt="Sebastian's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianDevps&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SebastianDevps&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<h3 align="left">About Me:</h3>
-<p align="left">
+<h2 align="center">🏆 GitHub Trophies</h2>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SebastianDevps&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Trophies" />
+</p>
+
+---
+
+<h2 align="center">💬 About Me:</h2>
+<p align="center">
   I am a dedicated backend developer with a passion for creating efficient and scalable applications. Currently, I'm expanding my skills to become a fullstack developer. I enjoy working with modern technologies and am always eager to learn and explore new tools and frameworks.
 </p>
 
-<p align="left">
+<p align="center">
   💬 Feel free to reach out if you have any questions or just want to connect!
 </p>
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=SebastianDevps&icon=0&color=0)](https://visitcount.itsvg.in)
