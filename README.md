@@ -65,8 +65,8 @@
   </a>
 </p>
 
-<h2 align="center" style="color: #4CAF50;">📈 GitHub Stats</h2>
-<p align="center">
+<h2  style="color: #4CAF50;">📈 GitHub Stats</h2>
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=SebastianDevps&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Sebastian's GitHub Stats" />
 </p>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SebastianDevps&theme=dark&hide_border=false" alt="Sebastian's GitHub Streak" />
