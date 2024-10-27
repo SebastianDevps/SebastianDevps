@@ -1,16 +1,9 @@
 <h1 align="center" style="font-size: 3em; color: #4CAF50;">👋 Hi, I'm Sebastian Guerra</h1>
 <h3 align="center" style="color: #555;">🌐 Backend Developer | Aspiring Fullstack Developer</h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sebastiandevp/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=flat&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/SebastianDevps" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Profile-333?style=flat&logo=github" alt="GitHub" />
-  </a>
-</p>
-
 <p align="center" style="font-size: 1.2em; margin: 20px 0; color: #777;">🚀 Passionate about exciting projects and continuously learning new technologies!</p>
+<p align="center" style="font-size: 1.2em; margin: 20px 0; color: #777;">I am a dedicated backend developer with a passion for creating efficient and scalable applications. Currently, I'm expanding my skills to become a fullstack developer. I enjoy working with modern technologies and am always eager to learn and explore new tools and frameworks.</p>
+
 
 ---
 
@@ -65,10 +58,6 @@
   </a>
 </p>
 
-<h2 align="center" style="color: #4CAF50;">💬 About Me</h2>
-<p align="center" style="max-width: 800px; margin: 0 auto; font-size: 1.1em; color: #555;">
-  I am a dedicated backend developer with a passion for creating efficient and scalable applications. Currently, I'm expanding my skills to become a fullstack developer. I enjoy working with modern technologies and am always eager to learn and explore new tools and frameworks.
-</p>
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
