@@ -73,7 +73,7 @@
 
 <div id="user-content-toc" align="center">
   <ul>
-    <summary><h2 style="color: #4CAF50; font-size: 2.5em;">Connect With Me 🤝</h2></summary>
+    <summary><h2 style="color: #4CAF50; font-size: 2.5em;">🤝Connect With Me</h2></summary>
   </ul>
 </div>
 <p align="center">
@@ -88,6 +88,6 @@
   </a>
 </p>
 
-<p align="center">
+<p >
   <img src="https://visitcount.itsvg.in/api?id=SebastianDevps&icon=0&color=0" alt="Visit count badge" />
 </p>
