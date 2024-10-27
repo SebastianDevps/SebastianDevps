@@ -4,8 +4,6 @@
 <p align="center" style="font-size: 1.2em; margin: 20px 0; color: #777;">🚀 I am a dedicated backend developer with a passion for creating efficient and scalable applications. Currently, I'm expanding my skills to become a fullstack developer. I enjoy working with modern technologies and am always eager to learn and explore new tools and frameworks.⚡</p>
 
 
----
-
 <h2 align="left" style="color: #4CAF50;">🛠️ Languages & Frameworks</h2>
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
@@ -55,6 +53,13 @@
   <a href="https://docker.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="50" height="50" />
   </a>
+</p>
+
+<h2 align="center" style="color: #4CAF50;">📈 GitHub Stats</h2>
+<p align="start">
+  <img src="https://github-readme-stats.vercel.app/api?username=SebastianDevps&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Sebastian's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SebastianDevps&theme=dark&hide_border=false" alt="Sebastian's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianDevps&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </p>
 
 <div id="user-content-toc">
