@@ -1,101 +1,91 @@
 <div id="user-content-toc" align="center">
   <ul>
-    <summary><h1 align="center" style="font-size: 3em; color: #4CAF50; border-bottom: none;">👋 Hi, I'm Sebastian Guerra</h1></summary>
+    <summary>
+      <h1 align="center" style="font-size: 3em; color: #4CAF50;">👋 Hi, I'm Sebastian Guerra</h1>
+    </summary>
   </ul>
 </div>
 
-<p align="center" style="font-size: 1.2em; margin: 20px 0; color: #777;">
-  I am a dedicated backend developer with a passion for creating efficient and scalable applications. Currently, I'm expanding my skills to become a fullstack developer. I enjoy working with modern technologies and am always eager to learn and explore new tools and frameworks.
+<p align="center" style="font-size: 1.3em; margin: 20px 0; color: #555;">
+  I’m a passionate Junior FullStack Developer driven by creating impactful and scalable applications.  
+  My mission is to combine backend excellence with a polished frontend to craft seamless user experiences.  
+  Always eager to learn, collaborate, and face new challenges in the world of web development.
 </p>
 
-<div id="user-content-toc" align="left">
-  <ul>
-    <summary><h2 style="color: #4CAF50; font-size: 2.5em;">🛠️ Languages & Frameworks</h2></summary>
-  </ul>
-</div>
-<p align="left">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50" />
-  </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="50" height="50" />
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50" />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50" />
-  </a>
-</p>
-
-<div id="user-content-toc" align="left">
-  <ul>
-    <summary><h2 style="color: #4CAF50; font-size: 2.5em;">📊 Databases</h2></summary>
-  </ul>
-</div>
-<p align="left">
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50" />
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="50" height="50" />
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50" />
-  </a>
-</p>
-
-<div id="user-content-toc" align="left">
-  <ul>
-    <summary><h2 style="color: #4CAF50; font-size: 2.5em;">🔧 Tools</h2></summary>
-  </ul>
-</div>
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50" />
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50" />
-  </a>
-  <a href="https://docker.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="50" height="50" />
-  </a>
-</p>
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SebastianDevps&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SebastianDevps&theme=dark&hide_border=false)<br/>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SebastianDevps&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+---
 
 <div id="user-content-toc" align="center">
   <ul>
-    <summary><h2 style="color: #4CAF50; font-size: 2.5em;">🤝Connect With Me</h2></summary>
+    <summary><h2 style="color: #4CAF50; font-size: 2.5em;">💻 Tech Stack</h2></summary>
   </ul>
 </div>
-<p align="center">
-  <a href="https://www.linkedin.com/in/sebastiandevp/" target="blank">
-    <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
-  </a>
-  <a href="https://js-webs.com/" target="blank">
-    <img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" />
-  </a>
-  <a href="https://discordapp.com/users/779550358254125076" target="blank">
-    <img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" />
-  </a>
-</p>
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=SebastianDevps&icon=0&color=0" alt="Visit count badge" />
-</p>
+<div align="center">
+  <p>
+    <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+    <img src="https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
+    <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+    <img src="https://img.shields.io/badge/Express-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+    <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
+    <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+    <img src="https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js"/>
+    <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+    <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+    <img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+    <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+    <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="JWT"/>
+    <img src="https://img.shields.io/badge/GraphQL-%23E10098.svg?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
+  </p>
+</div>
+
+---
+
+<div id="user-content-toc" align="center">
+  <ul>
+    <summary><h2 style="color: #4CAF50; font-size: 2.5em;">📊 GitHub Stats</h2></summary>
+  </ul>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SebastianDevps&theme=radical&show_icons=true&hide_border=false&include_all_commits=false&count_private=false" alt="Sebastian's GitHub Stats" style="max-width: 48%; margin-right: 2%;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SebastianDevps&theme=radical&hide_border=false" alt="GitHub Streak Stats" style="max-width: 48%;" />
+</div>
+
+---
+
+<div id="user-content-toc" align="center">
+  <ul>
+    <summary><h2 style="color: #4CAF50; font-size: 2em;">🏆 Achievements</h2></summary>
+  </ul>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SebastianDevps&theme=radical&no-frame=true&column=6&margin-w=10" alt="GitHub Trophies" />
+</div>
+
+---
+
+<div id="user-content-toc" align="center">
+  <ul>
+    <summary><h2 style="color: #4CAF50; font-size: 2em;">🤝 Connect With Me</h2></summary>
+  </ul>
+</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/sebastiandevp/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://js-webs.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23121011.svg?style=for-the-badge&logo=about-dot-me&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="https://discordapp.com/users/779550358254125076" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
+</div>
+
+<div align="center" style="margin-top: 20px;">
+  <img src="https://visitcount.itsvg.in/api?id=SebastianDevps&icon=0&color=12" alt="Visitor Counter" />
+</div>
