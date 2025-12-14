@@ -54,13 +54,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=SebastianDevps&theme=radical&hide_border=false" alt="GitHub Streak Stats" style="max-width: 48%;" />
 </div>
 
----
-
-<div id="user-content-toc" align="center">
-  <ul>
-    <summary><h2 style="color: #4CAF50; font-size: 2em;">🏆 Achievements</h2></summary>
-  </ul>
-</div>
 
 ---
 
