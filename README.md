@@ -62,10 +62,6 @@
   </ul>
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SebastianDevps&theme=radical&no-frame=true&column=6&margin-w=10" alt="GitHub Trophies" />
-</div>
-
 ---
 
 <div id="user-content-toc" align="center">
@@ -84,8 +80,4 @@
   <a href="https://discordapp.com/users/779550358254125076" target="_blank">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
-</div>
-
-<div align="center" style="margin-top: 20px;">
-  <img src="https://visitcount.itsvg.in/api?id=SebastianDevps&icon=0&color=12" alt="Visitor Counter" />
 </div>
