@@ -28,20 +28,6 @@ With my team, we've shipped agents that:
 - 🎙️ Turn meetings into summaries and actionable tasks.
 - 🧱 Run on a multi-tenant platform where each company manages its own agents.
 
-```mermaid
-flowchart LR
-  C["Channels<br/>WhatsApp · Web · API"] --> G["Gateway<br/>auth · validation"]
-  G --> R["Agent runtime<br/>multi-tenant · durable"]
-  R <--> M["Models<br/>Claude · GPT · Gemini"]
-  R <--> T["Tools<br/>MCP · ERP · CRM"]
-  R <--> K["Knowledge<br/>pgvector · reranking"]
-  R --> V["Guardrails<br/>validation · human handoff"]
-  V --> C
-  R -.-> O["Observability<br/>traces · evals · cost"]
-```
-
-**How they're built:** grounded in real data · deterministic guardrails · tenant isolation · durable execution · provider-agnostic · sandboxed · continuously evaluated.
-
 ---
 
 ## 🧩 Open Source
@@ -93,6 +79,5 @@ flowchart LR
 
 <p>
   <a href="https://www.linkedin.com/in/sebastiandevp/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://js-webs.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23121011.svg?style=for-the-badge&logo=about-dot-me&logoColor=white" alt="Portfolio"></a>
   <a href="https://discordapp.com/users/779550358254125076" target="_blank"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
 </p>
